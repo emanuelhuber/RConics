@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-date: 2018-02-12
+date: 2021-11-20
 ---
 # RConics: a free and open-source package for computations on conics and much more
 
