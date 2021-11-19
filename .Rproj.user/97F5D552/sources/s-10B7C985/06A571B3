@@ -1,0 +1,27 @@
+{
+    "id": "06A571B3",
+    "path": "/mnt/data/huber/Documents/RESEARCH/PROJECTS/RConics/CODE/RConics/R/ellipseToConicMatrix.R",
+    "project_path": "R/ellipseToConicMatrix.R",
+    "type": "r_source",
+    "hash": "2807837930",
+    "contents": "",
+    "dirty": false,
+    "created": 1636148907970.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636155500,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636155500589,
+    "read_only": false,
+    "read_only_alternatives": []
+}
