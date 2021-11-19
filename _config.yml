@@ -6,21 +6,21 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            RGPR
-tagline:          "free and open-source software package for ground-penetrating radar (GPR) data processing"
-description:      'RGPR: free and open-source'
-url:              https://emanuelhuber.github.io/RGPR/
-baseurl:          /RGPR
-logo:             http://emanuelhuber.github.io/RGPR/img/RGPR_logo.png
-twitter:
-  username: RGPRsoftware
-  card: summary
+title:            RConics
+tagline:          "a free and open-source package for computations on conics and much more"
+description:      'RConics'
+url:              https://emanuelhuber.github.io/RConics/
+baseurl:          /RConics
+logo:             http://emanuelhuber.github.io/RConics/img/RConics_logo.png
+#twitter:
+#  username: RGPRsoftware
+#  card: summary
 social:
-  name: GPR software
-  links:
-    - https://www.linkedin.com/company/rgpr-open-source-gpr-processing/
-    - https://github.com/open-source-GPR-software-processing
-    - https://www.researchgate.net/project/RGPR-a-free-and-open-source-software-package-for-ground-penetrating-radar-GPR-data-processing
+  name: RConics package
+#  links:
+#    - https://www.linkedin.com/company/rgpr-open-source-gpr-processing/
+#    - https://github.com/open-source-GPR-software-processing
+#    - https://www.researchgate.net/project/RGPR-a-free-and-open-source-software-package-for-ground-penetrating-radar-GPR-data-processing
     
     
 #author:
@@ -37,7 +37,7 @@ version:          0.2
 analytics:
   provider: "google-universal"
 google:
-  tracking_id: "UA-124908003-2"
+  tracking_id: "G-P2W6DGVKRP"
 
 # jekyll plugins
 plugins:
