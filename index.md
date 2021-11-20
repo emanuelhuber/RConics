@@ -3,11 +3,15 @@ layout: default
 title: Home
 date: 2021-11-20
 ---
+
+
 # RConics: a free and open-source package for computations on conics and much more
 
 The R-package RConics solves some conic related problems
 using projective geometry: intersection of conics with lines and conics, arc
 length of an ellipse, polar lines, etc.
+
+
 
 
 **This is an ongoing project.**
