@@ -5,17 +5,8 @@
 # and take care of any .png file housekeeping, I navigate 
 # to my _drafts directory and execute in the terminal:
 
-# Rscript --vanilla r2jekyll.R 00_RGPR_tutorial_import-GPR-data.Rmd
-# Rscript --vanilla r2jekyll.R 01_RGPR_tutorial_plot-GPR-data.Rmd
-# Rscript --vanilla r2jekyll.R 02_RGPR_tutorial_basic-GPR-data-processing.Rmd
-# Rscript --vanilla r2jekyll.R 03_RGPR_tutorial_processing-GPR-data-with-pipe-operator.Rmd
-# Rscript --vanilla r2jekyll.R 04_RGPR_tutorial_GPR-data-survey.Rmd
-# Rscript --vanilla r2jekyll.R 05_RGPR_tutorial_GPR-data-time-slice-interpolation-3D.Rmd
-# Rscript --vanilla r2jekyll.R 07_RGPR_tutorial_GPR-data-migration.Rmd
-# Rscript --vanilla r2jekyll.R 09_RGPR_tutorial_hyperbola_fitting.Rmd
-# Rscript --vanilla r2jekyll.R 10_RGPR_mixed-phase-wavelet-deconvolution.Rmd
-# Rscript --vanilla r2jekyll.R 70_RGPR_tutorial_class-GPR.Rmd
-# Rscript --vanilla r2jekyll.R 80_RGPR_GPR-data-free-to-download.Rmd
+# Rscript --vanilla r2jekyll.R 00_RConics_ellipses.Rmd
+
 
 
 
