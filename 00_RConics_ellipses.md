@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Import GPR data
-date: 2021-11-20
+title: Basics date: 2021-11-20
 ---
 
 **Note**:
