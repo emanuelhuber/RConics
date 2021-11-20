@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Basics date: 2021-11-20
+title: Basics
+date: 2021-11-20
 ---
 
 **Note**:
