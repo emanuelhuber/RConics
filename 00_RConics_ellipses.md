@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basics
-date: 2021-11-20
+date: 2021-11-28
 ---
 
 **Note**:
@@ -82,9 +82,29 @@ $$
 p_1\cdot\left( p_2 q_3 - p_3 q_2\right) + p_2\cdot\left( -p_1 q_3 + p_3 q_1\right) + p_2\cdot\left( p_1 q_2 - p_2 q_1\right) = 0
 $$
 
+The line joining two points, $p$ and $q$
+, is defined by the join operation:
+
+$$
+\mathbf{meet}\left(p, q\right):= p\times q
+$$
+
+
+In RConics this is done with the `join()` function:
 
 ``` r
 # homogeneous line joining p1 and p2
 l_12 <- join(p1,p2)
 l_12
+plot(rbind(p1, p2), xlab = "", ylab = "")
+addLine(l_12)
+grid()
 ```
+
+Exactly in the same way, the intersection between two lines, $l = (l_1, l_2, l_3)$ and $m = (m_1, m_2, m_3)$, is the point that is orthogonal to both $l$ and $m$. The intersection point is defined by the vector resulting from the
+cross-product of $l$ and $m$
+. This operation is called *meet* and defined as follows:
+
+$$
+\mathbf{meet}\left(l, m\right):= l\times m
+$$
