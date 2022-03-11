@@ -13,6 +13,11 @@
 
 
 quadraticFormToMatrix <- function(v){
-  if(length(v)!=6 && !as.vector(v,mode="numeric")) stop("v must have 6 elements and be numeric!\n")
-  return(matrix(c(v[1], v[2]/2, v[4]/2, v[2]/2, v[3], v[5]/2, v[4]/2, v[5]/2, v[6]),nrow=3, ncol=3))
+  if(length(v)!=6 || !all(is.numeric(v)) ){
+    stop("v must have 6 elements and be numeric!\n")
+  }
+  return(matrix(c(v[1], v[2]/2, v[4]/2, 
+                  v[2]/2, v[3], v[5]/2, 
+                  v[4]/2, v[5]/2, v[6]), 
+                nrow=3, ncol=3))
 }

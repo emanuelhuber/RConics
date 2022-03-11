@@ -21,17 +21,6 @@
 #'  This work was funded by the Swiss National Science Foundation within the 
 #'  ENSEMBLE project (grant no. CRSI_132249). 
 #'
-#' @section Projective Geometry:
-#' \itemize{
-#'   \item \code{Idontknow()}: format DT1 (Sensors&Software), rds (R-format)
-#'   \item \code{still dontknow()}: format DT1 (Sensors&Software), rds (R-format)
-#' }
-#'
-#' @section Conics:
-#' \itemize{
-#'   \item \code{plot()}: raster or wiggles.
-#'   \item \code{plot3D()}:
-#' }
 #' @import graphics
 #' @import stats
 #' @import utils 

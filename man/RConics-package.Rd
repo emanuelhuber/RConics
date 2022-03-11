@@ -28,22 +28,6 @@ Points and lines of a projective plane are represented by \emph{homogeneous}
  This work was funded by the Swiss National Science Foundation within the 
  ENSEMBLE project (grant no. CRSI_132249).
 }
-\section{Projective Geometry}{
-
-\itemize{
-  \item \code{Idontknow()}: format DT1 (Sensors&Software), rds (R-format)
-  \item \code{still dontknow()}: format DT1 (Sensors&Software), rds (R-format)
-}
-}
-
-\section{Conics}{
-
-\itemize{
-  \item \code{plot()}: raster or wiggles.
-  \item \code{plot3D()}:
-}
-}
-
 \references{
 Richter-Gebert, Jürgen (2011). 
 \emph{Perspectives on Projective Geometry - A Guided Tour Through Real and Complex Geometry}, 
@@ -55,5 +39,9 @@ Useful links:
   \item \url{https://github.com/emanuelhuber/RConics}
   \item Report bugs at \url{https://github.com/emanuelhuber/RConics/issues}
 }
+
+}
+\author{
+\strong{Maintainer}: Emanuel Huber \email{emanuel.huber@pm.me} (\href{https://orcid.org/0000-0002-5528-0412}{ORCID})
 
 }
